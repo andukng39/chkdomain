@@ -21,7 +21,7 @@ The DNS services currently used for sending queries are listed below:
 | [Yandex][Yandex] (`77.88.8.1`)                 | [SafeDNS][SafeDNS] (`195.46.39.39`)              |                                             |
 |                                                | [Yandex][Yandex] (`77.88.8.2`)                   |                                             |
 
-After checking the domain, `chkdomain` provides direct links to the following intelligence services for more information:
+After checking the domain, `chkdomain` provides direct links to the following intelligence services for more information:1
 
 - [AlienVault Open Threat Exchange](https://otx.alienvault.com/)
 - [Bitdefender TrafficLight](https://trafficlight.bitdefender.com/info/)
